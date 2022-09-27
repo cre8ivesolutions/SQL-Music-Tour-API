@@ -14,9 +14,8 @@
     "express": "^4.17.1",
     "pg": "^8.8.0",
     "pg-hstore": "^2.3.4",
-    "sequelize": "^6.23.0"
+    "sequelize": "^6.23.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cre8ivesolutions/SQL-Music-Tour-API.git"
